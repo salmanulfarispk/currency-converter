@@ -154,7 +154,3 @@ Contains the currency-code-to-country-code mapping used by the application to di
 - The application requires an internet connection to retrieve exchange-rate data and flag images.
 - API availability can affect the conversion functionality.
 - This project is intended as a learning project for practicing JavaScript, DOM manipulation, and API integration.
-
-## 📸 Preview
-
-The application provides a simple interface where users can enter an amount, choose the source and destination currencies, and view the converted value.
